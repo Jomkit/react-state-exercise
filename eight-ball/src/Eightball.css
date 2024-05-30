@@ -1,0 +1,15 @@
+.Eightball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    min-width: 500px;
+    height: 500px;
+    border-radius: 100%;
+}
+
+.Eightball:hover { cursor: pointer }
+
+.Eightball-msg {
+    color: white;
+}

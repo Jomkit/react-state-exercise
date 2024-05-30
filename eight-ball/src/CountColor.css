@@ -1,0 +1,8 @@
+.CountColor {
+    display: flex;
+    justify-content: center;
+}
+
+.CountColor p {
+    margin: 10px;
+}
