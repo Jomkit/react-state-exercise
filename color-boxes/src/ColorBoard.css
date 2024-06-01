@@ -1,0 +1,4 @@
+.ColorBoard {
+    display: flex;
+    flex-wrap: wrap;
+}
